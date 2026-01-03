@@ -7,7 +7,7 @@ from typing import List, Dict, Any
 # 設定・定数 (Configuration & Constants)
 # ==============================================================================
 APP_TITLE = "ユロっとシミュレーター Ver1.0"
-PASSWORD = "2026fire"
+PASSWORD = "2030fire"
 DEFAULT_CAPITAL = 5000000  # 初期資金 500万
 DEFAULT_YEARS = 5          # 期間 5年
 DEFAULT_CAGR = 118.0       # 想定年利 118%
@@ -295,4 +295,5 @@ def main():
     )
 
 if __name__ == "__main__":
+
     main()
